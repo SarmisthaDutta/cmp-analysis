@@ -1,4 +1,4 @@
-# CMP-analysis
+# CMP Zone Utilization Analysis
 A data-driven retail zone optimization project using SQL Server, Power BI, and Azure Data Studio.
 This project simulates how a home furnishing company e.g. IKEA can analyze customer behavior across different store zones (Living Room, Kitchen, etc.) to optimize layout and improve engagement
 
